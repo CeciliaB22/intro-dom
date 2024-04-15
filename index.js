@@ -1,3 +1,5 @@
 function change() {
-    // your code goes here!!!----123
+    // your code goes here!!!----
+    let titleElement = document.querySelector(",titleClassName");
+    titleElement.style.color = "red";
 }
